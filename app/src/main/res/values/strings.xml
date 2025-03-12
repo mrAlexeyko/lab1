@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProgrammingLanguageSelector</string>
+    <string-array name="programming_languages">
+        <item>Виберіть мову програмування</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>C++</item>
+        <item>Python</item>
+        <item>JavaScript</item>
+    </string-array>
+</resources>
